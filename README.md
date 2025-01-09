@@ -1,4 +1,4 @@
-# Discord-Nitro-Generator-2024
+# Discord-Nitro-Generator-2025
 Generates working nitro gift code links for Discord, working 2025.
 
 # Example:
